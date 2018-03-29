@@ -1,1 +1,2 @@
 This is my first file in git
+Additional text in my file
