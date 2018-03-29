@@ -1,2 +1,3 @@
 This is my first file in git
 Additional text in my file
+This text is present only in a branch version of file
